@@ -3,7 +3,7 @@
 `TIME TRAVEL: TRUTH OR FICTION?`  
 `Leaked federal documents describe the formation of a new federal agency XEDRA, to oversee "4th Axis technology" already in use. Expert opinion suggests time-travel or parallel worlds.`
 
-This is a placeholder mod for the `XEDRA R&D Facility` location - a new 4x4 "dungeon-crawl" mapgen location with 4 basement levels, containing new monsters, new equipment and recipes as well as a new questline.
+This is a placeholder mod for the `XEDRA R&D Facility` location - a new 2x2 "dungeon-crawl" mapgen location with 4 basement levels, containing new monsters, new equipment and recipes as well as a new questline.
 
 The `XEDRA R&D Facility` is an end-game location, and not something to explore until your survivor is ready.
 
